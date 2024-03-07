@@ -25,9 +25,8 @@
         "desc": "Metis is on the verge of becoming the first Ethereum rollup with a decentralized sequencer, a major step for Ethereum scalability, and the community will be able to directly take part in the journey to rollup decentralization. ",
         "address": "0xf0133D965981acF6e845E5588e29775c007F8556",
         "seq_addr": "0xed520CF24aC49ffc387Fb060acA38871f52ba936",
-        "pubkey": "0x049251df3f93dae349901f9a14527179708ca56a446491311fce0ef8b796a1d2790d394c00331480a23a3bc5fd03f6c703a4168aae3d60c94fbf92ee90de8d5101",
+        "pubkey": "0x9251df3f93dae349901f9a14527179708ca56a446491311fce0ef8b796a1d2790d394c00331480a23a3bc5fd03f6c703a4168aae3d60c94fbf92ee90de8d5101",
         "url": "https://www.metis.io/decentralized-sequencer",
         "media": ""
     }
-]
 ]
